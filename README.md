@@ -1,4 +1,4 @@
-### Hello everyone 👋, my name is Diego and I'm currently in the process of learning all kinds of tools and languages related to web development and programming to become a full-stack developer. 
+### Hello everyone 👋, my name is Diego and I'm currently in the process of learning all kinds of tools and languages related to web development and programming to become a full-stack web developer. 
 
 #### Languages and Tools:
 
