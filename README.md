@@ -18,7 +18,7 @@
 
 #### 📈 My GitHub Stats:<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Discordante&layout=compact&title_color=black)](https://github.com/Discordante/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Discordante&layout=compact&title_color=#000000)](https://github.com/Discordante/github-readme-stats)
 
 
 
