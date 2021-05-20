@@ -1,4 +1,4 @@
-### Hello everyone 👋, my name is Diego and I'm a junior front-end web developer. Passionate about technology and programming and currently looking for new projects that allow me to grow as developer.
+### Hello everyone 👋, my name is Diego and I'm a junior Full-Stack developer. Passionate about technology and programming and currently looking for new projects that allow me to grow as developer.
 
 #### Languages and Tools:
 
