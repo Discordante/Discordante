@@ -3,7 +3,7 @@
 #### Languages and Tools:
 
 <img align="left" alt="mysql" width="40px" 
-src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" />
+src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="postgreSQL" width="30px" 
 src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
 <img align="left" alt="MONGODB" width="30px" 
