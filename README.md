@@ -23,7 +23,8 @@ src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png"
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br /> <br />
 
 <br/>
-<a href="https://www.linkedin.com/in/diego-cerratos/">Linkedin</a> 
+- <a  href="https://www.linkedin.com/in/diego-cerratos/"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> linkedIn</a>
+
 
 
 
