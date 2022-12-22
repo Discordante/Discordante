@@ -2,7 +2,7 @@
 
 #### Languages and Tools:
 
-<img align="left" alt="mysql" width="50px" 
+<img align="left" alt="mysql" width="30px" 
 src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" />
 <img align="left" alt="postgreSQL" width="30px" 
 src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
