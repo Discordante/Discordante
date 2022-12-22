@@ -2,7 +2,7 @@
 
 #### Languages and Tools:
 
-<img align="left" alt="mysql" width="40px" 
+<img align="left" alt="mysql" width="30px" 
 src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="postgreSQL" width="30px" 
 src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
