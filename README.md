@@ -5,7 +5,7 @@
 <img align="left" alt="mysql" width="50px" 
 src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" alt="postgreSQL" width="30px" 
-src="[https://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png](https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg)" />
+src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="NODE" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
